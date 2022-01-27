@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "question": "Do you often feel this way?",
+        "answerPoint": 0,
+        "currentMood": "Gloomy"
+    },
+    {
+        "id": 2,
+        "question": "Would you like to tell a friend?",
+        "answerPoint": 0,
+        "currentMood": "Gloomy"
+    },
+    {
+        "id": 3,
+        "question": "Or rather you want to keep it to yourself?",
+        "answerPoint": 0,
+        "currentMood": "Gloomy"
+    },
+    {
+        "id": 4,
+        "question": "Do you feel comfortable right now?",
+        "answerPoint": 0,
+        "currentMood": "Gloomy"
+    },
+    {
+        "id": 5,
+        "question": "Do you often feel this way?",
+        "answerPoint": 0,
+        "currentMood": "Happy"
+    },
+    {
+        "id": 6,
+        "question": "Would you like to tell a friend?",
+        "answerPoint": 0,
+        "currentMood": "Happy"
+    },
+    {
+        "id": 7,
+        "question": "Or rather you want to keep it to yourself?",
+        "answerPoint": 0,
+        "currentMood": "Happy"
+    },
+    {
+        "id": 8,
+        "question": "Do you feel comfortable right now?",
+        "answerPoint": 0,
+        "currentMood": "Happy"
+    }
+]
