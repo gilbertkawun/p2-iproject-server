@@ -1,0 +1,42 @@
+[
+    {
+        "value": 1,
+        "accumulatePoint": 25,
+        "QuestionId": 1
+    },
+    {
+        "value": 2,
+        "accumulatePoint": 25,
+        "QuestionId": 2
+    },
+    {
+        "value": 3,
+        "accumulatePoint": 25,
+        "QuestionId": 3
+    },
+    {
+        "value": 4,
+        "accumulatePoint": 25,
+        "QuestionId": 4
+    },
+    {
+        "value": 1,
+        "accumulatePoint": 25,
+        "QuestionId": 5
+    },
+    {
+        "value": 2,
+        "accumulatePoint": 25,
+        "QuestionId": 6
+    },
+    {
+        "value": 3,
+        "accumulatePoint": 25,
+        "QuestionId": 7
+    },
+    {
+        "value": 4,
+        "accumulatePoint": 25,
+        "QuestionId": 8
+    }
+]
