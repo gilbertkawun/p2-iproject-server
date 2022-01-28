@@ -2,7 +2,7 @@ const { User } = require("../models")
 const { verifyToken } = require("../helpers/helpers")
 const { JsonWebTokenError } = require("jsonwebtoken")
 
-const authentication = async (req, res, next) {
+const authentication = async (req, res, next) => {
     try {
         const { access_token } = req.headers
         
